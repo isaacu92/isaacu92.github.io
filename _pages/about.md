@@ -11,7 +11,7 @@ redirect_from:
 
 Background
 ======
-Originally from Dodge City, KS, I graduate high school in 2022, then with my undergraduate in Statistics & Data Science with a certificate in Data Analytics in F2024/S2025. 
+Originally from Dodge City, KS, I graduated high school in 2022, then did my undergraduate degree in Statistics & Data Science with a certificate in Data Analytics in F2024/S2025. 
 
 Getting started
 ======
