@@ -24,27 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Isaac S"
   pronouns         : # example: "she/her"  
-  bio              : "Masters Student in Department of Statistics \n Consulting Statistician in K-State Statistical Consulting Laboratory \n K-State Statistics Club President"
+  bio              : "Masters Student of Statistics & Data Science in Department of Statistics\nConsulting Statistician in K-State Statistical Consulting Laboratory\nK-State Statistics Club President"
   location         : "Manhattan, KS"
   employer         : "Kansas State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "isaacu92@ksu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : ""
 
 
   # Repositories and software development
