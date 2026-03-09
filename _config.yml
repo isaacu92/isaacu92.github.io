@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Masters Student in Department of Statistics \n Consulting Statistician in K-State Statistical Consulting Laboratory \n K-State Statistics Club President"
+  location         : "Manhattan, KS"
+  employer         : "Kansas State University"
   uri              : # URL
   email            : "none@example.org" 
 
