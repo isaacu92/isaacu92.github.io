@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- [Academic Pages template](https://github.com/academicpages/academicpages.github.io) Hey! I am currently a Masters student studying Statistics & Data Science at Kansas State University in the Department of Statistics. I currently am a member of Dr. Xuan Xu's lab, the X Lab, with labmates Dr. Yuzhou Xu and Xiarui Xiao. I also work under the supervision of Dr. Chris Vahl as a consulting statistician in the K-State Statistical Consulting Laboratory. In both labs, we focus on cross disiplinary research ranging from agronomy, genomics, pharmacokinetics, lipidomics, cancer research, and many more. Personal research includes evaluating the effects of extreme weather event on crop yield and quality. Other interests include Bayesian Hierarchical Modeling, Causal Inference and Physics-Informed Machine learning.
+ [Academic Pages template](https://github.com/academicpages/academicpages.github.io) I am currently a Masters student studying Statistics & Data Science at Kansas State University in the Department of Statistics. I currently am a member of Dr. Xuan Xu's lab, the X Lab, with labmates Dr. Yuzhou Xu and Xiarui Xiao. I also work under the supervision of Dr. Chris Vahl as a consulting statistician in the K-State Statistical Consulting Laboratory. In both labs, we focus on cross disiplinary research ranging from agronomy, genomics, pharmacokinetics, lipidomics, cancer research, and many more. Personal research includes evaluating the effects of extreme weather event on crop yield and quality. Other interests include Bayesian Hierarchical Modeling, Causal Inference and Physics-Informed Machine learning.
 
 Background
 ======
