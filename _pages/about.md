@@ -12,3 +12,7 @@ I am currently a Masters student studying Statistics & Data Science at Kansas St
 Background
 ======
 Originally from Dodge City, KS, I graduated high school in 2022, then did my undergraduate degree in Statistics & Data Science with a certificate in Data Analytics in S2025. 
+
+WIP
+======
+This website is a work in progess. I will be continuously be updating this page, especially once spring semester ends.
